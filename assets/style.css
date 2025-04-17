@@ -1,0 +1,43 @@
+/* Landing Page CSS START */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #24292e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+section {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Landing Page CSS END */
